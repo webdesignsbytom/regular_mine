@@ -9,7 +9,7 @@ function HomePage() {
         <header className='grid'>
           <article className='grid justify-center items-center'>
             <div className='py-6'>
-              <h1 className='text-white text-3xl font-bold'>Regular Looking Mine</h1>
+              <h1 className='text-white text-3xl font-bold'>Regular Looking website</h1>
             </div>
           </article>
         </header>
